@@ -5,3 +5,4 @@
 . git add "NombreArchivo"
 . git commit -n "Descripcion significativa del commit"
 . git config --list
+. git commit -am "que cambios hay"
